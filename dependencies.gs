@@ -1,0 +1,1 @@
+const _ = LodashGS.load();
